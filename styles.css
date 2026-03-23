@@ -1,14 +1,14 @@
 :root {
-  --bg: #f7f5f1;
+  --bg: #f6f1f8;
   --surface: #ffffff;
-  --text: #1f2933;
-  --muted: #5b6570;
-  --accent: #2f5d50;
-  --accent-dark: #24473d;
-  --border: #e7e2da;
-  --shadow: 0 10px 25px rgba(0, 0, 0, 0.06);
-  --radius: 18px;
-  --max-width: 980px;
+  --text: #231f20;
+  --muted: #5d5560;
+
+  /* Premier Inn style purple */
+  --accent: #4b145f;
+  --accent-dark: #3a0f4a;
+
+  --border: #e6dbea;
 }
 
 * {
